@@ -20,4 +20,7 @@ npx ts-node index.ts
 ```
 
 ## Resources
+- [thirdweb: Create a MetaMask wallet and get testnet ETH](https://thirdweb.com/portal/guides/create-a-metamask-wallet)
+- [thirdweb: How to create a thirdweb project?](https://thirdweb.com/portal/learn/projects)
 - [thirdweb: Mint an NFT Collection with TypeScript](https://thirdweb.com/portal/guides/mint-nft-collection-using-typescript-sdk)
+- [thirdweb: Code examples](https://thirdweb.com/portal/learn/code-examples)
