@@ -11,6 +11,9 @@ Create a [thirdweb](https://thirdweb.com/) Project and NFT Drop. If you don't kn
 git clone git@github.com:suud/mint-nft-typescript.git
 cd mint-nft-typescript
 
+# Install dependencies
+npm install
+
 # Customize configuration
 cp .env.example .env
 vim .env
